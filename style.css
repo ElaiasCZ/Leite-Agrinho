@@ -1,7 +1,7 @@
 .menu-h ul{
     list-style: none;
     padding: 0 30%;
-    background-color: rgb(160, 255, 131);   
+    background-color: rgb(51, 219, 0);   
 }
 
 .menu-h ul li{
@@ -9,7 +9,7 @@
 }
 
 .menu-h ul li a{
-    color: #FFFFFF;
+    color: #ffffff;
     padding: 20px;
     display: inline-block;
     text-decoration: none;
