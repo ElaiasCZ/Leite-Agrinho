@@ -10,6 +10,7 @@
 
 .menu-h ul li a{
     color: #ffffff;
+    align-items: center;
     padding: 20px;
     display: inline-block;
     text-decoration: none;
