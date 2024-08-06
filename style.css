@@ -1,28 +1,22 @@
+@import url("styles/headers.css");
+@import url("styles/box.css");
+@import url("styles/carrossel.css");
 
-.menu-h ul{
-    list-style: none;
-    padding: 0 30%;
-    background-color: rgb(0, 150, 219);   
+:root {
+    --cor-de-fundo: #e4e6e7;
+    --branco: #FFFFFF;
+    --laranja: #EB9B00;
+    --vermelho: #be1f07;
+    --fonte-principal: "Poppins";
+    --preto: #000000;
+    --amarelo : #f6f7c7; 
 }
 
-.menu-h ul li{
-    display: inline;
+body {
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400; 
 }
 
-.menu-h ul li a{
-    color: #ffffff;
-    align-items: center;
-    padding: 20px;
-    display: inline-block;
-    text-decoration: none;
-    transition: background ,4s; 
-}
 
-.menu-h ul li a:hover{
-    background-color: rgb(0, 100, 131);
-    
-}
-
-.imagem-opcoes{
-    align-items: left;
-}
