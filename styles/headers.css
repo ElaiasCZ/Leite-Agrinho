@@ -12,7 +12,7 @@
 }
 
 .container__botao:checked~.container__rotulo {
-    background: var(--vermelho);   
+    background: var(--azul2);   
 }
 
 .cabeçalho {
@@ -30,7 +30,7 @@
 }
 
 .container__imagem {
-    padding: 50px;
+    padding: 5px;
 }
 
 .lista-menu {
@@ -57,7 +57,7 @@
 }
 
 .lista-menu__link {
-    background: var(--vermelho);
+    background: var(--azul2);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -141,7 +141,7 @@
     }
 
     .opções__botão:checked~.opções__rotulo>.opções__item {
-        background: var(--vermelho);
+        background: var(--azul2);
         color: var(--branco);
         border-radius: 30px;
     }
@@ -151,7 +151,7 @@
     }
 
     .lista-menu__item:hover {
-        background: var(--vermelho);
+        background: var(--azul2);
         border-radius: 20px;
     }
 
