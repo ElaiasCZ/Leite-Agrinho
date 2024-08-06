@@ -30,7 +30,8 @@
 }
 
 .container__imagem {
-    size: 1em;
+    width: 1px;
+    height: 1px;
 }
 
 .lista-menu {
