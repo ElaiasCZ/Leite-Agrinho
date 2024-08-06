@@ -19,4 +19,37 @@ body {
     font-weight: 400; 
 }
 
+.container{
+    margin-top: 50px;
+    display: flex;
+}
+
+.topico1_descricao{
+width: 50%;
+padding: 2em;
+}
+
+.topico1_titulo{
+    font-weight: 700;
+    font-size: 35px;
+    text-align: justify;
+    color: var(--preto);
+    margin-bottom: 0.2em;
+}
+
+.topico1_texto{
+    margin-top: 35px;
+    text-align: justify;
+    color: var(--preto);
+    font-size: 26px;
+    line-height: 1.5em;
+}
+
+.topico1_imagem{
+    width: 30%;
+    margin: 2em;
+}
+
+
+
 
