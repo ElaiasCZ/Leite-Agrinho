@@ -1,48 +1,52 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html>
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🥛Site Agrinho🥛</title>
+    <title>EXEMPLO 1</title>
+    <link rel="stylesheet" href="reset.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
     <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
-    <header>
-        <header class="cabeçalho">
-            <div class="container">
-                <input type="checkbox" id="menu" class="container__botao">
-                <label for="menu">
-                    <span class="cabeçalho__menu-hamburguer container__imagem"></span>
+    <header class="cabeçalho">
+        <div class="container">
+            <input type="checkbox" id="menu" class="container__botao">
+            <label for="menu">
+                <span class="cabeçalho__menu-hamburguer container__imagem"></span>
+            </label>
+           
+            <ul class="lista-menu">
+                <li class="lista-menu__titulo">Fator RH</li>
+                <li class="lista-menu__item">
+                    <a href="#" class="lista-menu__link">RH+</a>
+                </li>
+                <li class="lista-menu__item">
+                    <a href="#" class="lista-menu__link">RH-</a>
+                </li>   
+            </ul>
+            <img src="img/logo.svg" alt="Logo doação de sangue" class="container__imagem">
+            <h2 class="container__titulo"><b class="container__titulo--negrito"> SEJA UM DOADOR DE SANGUE</b></h2> 
+        </div>
+            <ul class="opções">
+                <input type="checkbox" id="opções-menu" class="opções__botão">
+                <label for="opções-menu" class="opções__rotulo">
+                <li class="opções__item">Fator RH</li>
                 </label>
-               
-                <ul class="lista-menu">
-                    <li class="lista-menu__titulo">🥛</li>
-                    <li class="lista-menu__item">
-                        <a href="#" class="lista-menu__link">SOBRE</a>
-                    </li>
-                    <li class="lista-menu__item">
-                        <a href="#" class="lista-menu__link">PROCESSO</a>
-                    </li>   
-                </ul>
-                <img src="img/caixaleite.png" alt="LogoLeite" class="container__imagem">
-                <h2 class="container__titulo"><b class="container__titulo--negrito">LEITE NO PARANÁ</b></h2> 
-            </div>
-                <ul class="opções">
-                    <input type="checkbox" id="opções-menu" class="opções__botão">
-                    <label for="opções-menu" class="opções__rotulo">
-                    <li class="opções__item">🥛</li>
-                    </label>
-    
-                <ul class="lista-menu">
-                    <li class="lista-menu__item">
-                        <a href="#" class="lista-menu__link">SOBRE</a>
-                    </li>
-                    <li class="lista-menu__item">
-                        <a href="#" class="lista-menu__link">PROCESSO</a>
-                    </li>
-                </ul>
-                </ul>
+
+            <ul class="lista-menu">
+                <li class="lista-menu__item">
+                    <a href="#" class="lista-menu__link">RH+</a>
+                </li>
+                <li class="lista-menu__item">
+                    <a href="#" class="lista-menu__link">RH-</a>
+                </li>
+            </ul>
+            <li class="opções__item"><a href="#" class="opções__link">Requisitos para doar sangue</a></li>
+            </ul>
     </header>
-    </header>
-</body>
-</html>
