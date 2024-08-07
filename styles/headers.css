@@ -159,13 +159,13 @@
 
     .lista-menu__item:hover {
         background: var(--azul3);
-        border-radius: 60px;
+        border-radius: 30px;
     }
 
     .lista-menu__item:hover>.lista-menu__link {
         -webkit-text-fill-color: var(--branco);
         text-decoration: none;
-        border-radius: 60px;
+        border-radius: 30px;
     }
 
 }
