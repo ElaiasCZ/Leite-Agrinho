@@ -180,6 +180,7 @@
 
     .opções {
         margin-right: auto;
+        border-radius: 30px;
     }
 
     .container__texto {
