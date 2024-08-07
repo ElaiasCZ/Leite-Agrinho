@@ -113,18 +113,18 @@
 
     .opções {
         display: flex;
-        border-radius: 30%;
     }
 
     .opções__item {
         padding: 0 1em;
         text-transform: uppercase;
-        border-radius: 30%;
+        border-radius: 30px;
     }
 
     .opções__link {
         text-decoration: none;
         color: var(--preto);
+        border-radius: 30px;
     }
 
     .container__imagem-transparente {
