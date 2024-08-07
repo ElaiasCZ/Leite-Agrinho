@@ -9,7 +9,7 @@
     --azul2: #0b004b;
     --fonte-principal: "Poppins";
     --preto: #000000;
-    --azul1 :rgb(181, 228, 255)7; 
+    --azul1:#bbf1ff;
 }
 
 body {
@@ -33,7 +33,7 @@ padding: 2em;
     font-weight: 700;
     font-size: 35px;
     text-align: justify;
-    color: var(--preto);
+    color: var(--azul1);
     margin-bottom: 0.2em;
 }
 
