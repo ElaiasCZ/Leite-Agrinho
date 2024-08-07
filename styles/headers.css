@@ -118,13 +118,11 @@
     .opções__item {
         padding: 0 1em;
         text-transform: uppercase;
-        border-radius: 30px;
     }
 
     .opções__link {
         text-decoration: none;
         color: var(--preto);
-        border-radius: 30px;
     }
 
     .container__imagem-transparente {
@@ -138,34 +136,28 @@
     .opções__botão:checked~.lista-menu {
         display: block;
         width: auto;
-        border-radius: 30px;
     }
 
     .opções__botão {
         display: none;
-        border-radius: 40px;
     }
 
     .opções__botão:checked~.opções__rotulo>.opções__item {
         background: var(--azul3);
         color: var(--branco);
-        border-radius: 40%;
     }
 
     .opções__item {
         padding: 2em 1em;
-        border-radius: 30px;
     }
 
     .lista-menu__item:hover {
         background: var(--azul3);
-        border-radius: 30px;
     }
 
     .lista-menu__item:hover>.lista-menu__link {
         -webkit-text-fill-color: var(--branco);
         text-decoration: none;
-        border-radius: 30px;
     }
 
 }
@@ -183,7 +175,6 @@
 
     .opções {
         margin-right: auto;
-        border-radius: 30%;
     }
 
     .container__texto {
