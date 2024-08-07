@@ -135,10 +135,11 @@
     .opções__botão:checked~.lista-menu {
         display: block;
         width: auto;
+        border-radius: 30px;
     }
 
     .opções__botão {
-        display: flexbox;
+        display: none;
     }
 
     .opções__botão:checked~.opções__rotulo>.opções__item {
