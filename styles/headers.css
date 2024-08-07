@@ -140,6 +140,7 @@
 
     .opções__botão {
         display: none;
+        border-radius: 30px;
     }
 
     .opções__botão:checked~.opções__rotulo>.opções__item {
