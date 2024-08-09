@@ -134,6 +134,7 @@ span{
         .topico1_imagem{
             width: 70%;
             margin: 7em;
+            align-items: end;
             
         }   
 }
