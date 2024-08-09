@@ -215,13 +215,12 @@
         position: relative;
         padding: 0 70px;
         padding-bottom: 5px;
-        width: 1080px;
+       width: 2000;
     }
 
-    container__imagem {
-        width: 100px;
-        height: 100px;
-       
+    .container__imagem{
+        width: 400px;
+        height: 400px;
     }
 }
 
