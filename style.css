@@ -101,20 +101,17 @@ span{
 
     .topico1_titulo{
         font-size: 45px;
-        text-align: justify;
         color: var(--azul5);
         margin-bottom: 0.2em;
     }
     
     .topico2_titulo{
         font-size: 40px;
-        text-align: justify;
         color: var(--azul5);
     }
     
     .topico1_texto{
         margin-top: 35px;
-        text-align: justify;
         color: var(--azul1);
         font-size: 35px;
         line-height: 1.5em;
