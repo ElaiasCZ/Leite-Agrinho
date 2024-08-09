@@ -184,6 +184,7 @@
 
     .container__titulo {
    display: flex;
+   flex-wrap: nowrap;
     }
     .container__titulo,
     .container__titulo--negrito {
