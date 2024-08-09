@@ -94,6 +94,10 @@ span{
 }
 @media screen and (min-width: 200px) and (max-width: 1023px) {
 
+    .container{
+        margin-top: 50px;
+        display: block;
+
     .topico1_titulo{
         font-size: 20px;
         text-align: justify;
@@ -123,7 +127,6 @@ span{
         .topico1_imagem{
             width: 100%;
             margin: 1em;
-            margin-bottom: -70px;
             
         }
 }
