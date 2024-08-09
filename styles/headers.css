@@ -203,9 +203,11 @@
 
     .cabeçalho {
         align-items: center;
+        display: flex;
         position: relative;
         padding: 0 70px;
         padding-bottom: 10px;
+        width: 100%;
     }
 }
 
