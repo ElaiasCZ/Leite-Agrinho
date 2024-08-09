@@ -188,7 +188,7 @@
     .container__titulo,
     .container__titulo--negrito {
         font-family: var(--fonte-secundario);
-        font-size: 25px;
+        font-size: 10px;
        
     }
 
