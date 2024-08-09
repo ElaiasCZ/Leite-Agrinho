@@ -55,6 +55,11 @@ padding: 10em;
     line-height: 1.5em;
 }
 
+span{
+    text-decoration: underline;
+    text-decoration: dashed;
+}
+
 .topico2_texto{
     margin-top: 35px;
     text-align: justify;
