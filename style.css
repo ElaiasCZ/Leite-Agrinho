@@ -104,11 +104,13 @@ span{
         font-size: 45px;
         color: var(--azul5);
         margin-bottom: 0.2em;
+        width: 800px;
     }
     
     .topico2_titulo{
         font-size: 40px;
         color: var(--azul5);
+        width: 800px;
     }
     
     .topico1_texto{
@@ -127,7 +129,7 @@ span{
         }
         .topico1_imagem{
             margin-left: 450px;
-            width: 30%;
+            width: 300px;
             padding: 20em;
             align-items: center;
             
