@@ -183,7 +183,7 @@
 @media screen and (min-width: 200px) and (max-width: 1023px) {
 
     .container__titulo {
-   display: right;
+   display: flex;
     }
     .container__titulo,
     .container__titulo--negrito {
@@ -197,7 +197,7 @@
     }
 
     .container__titulo--negrito {
-        font-weight: 700;
+        font-weight: 1000;
     }
 
     .cabeçalho {
