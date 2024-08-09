@@ -200,6 +200,14 @@
     .container__titulo--negrito {
         font-weight: 700;
     }
+
+    .cabeçalho {
+        display: flex;
+        align-items: center;
+        position: relative;
+        padding: 0 70px;
+        padding-bottom: 10px;
+    }
 }
 
 
