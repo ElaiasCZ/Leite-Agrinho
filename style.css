@@ -1,7 +1,4 @@
 @import url("styles/headers.css");
-@import url("styles/box.css");
-@import url("styles/carrossel.css");
-
 :root {
     --cor-de-fundo: #001722;
     --branco: #FFFFFF;
