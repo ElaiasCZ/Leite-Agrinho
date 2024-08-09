@@ -119,9 +119,11 @@ span{
         width: 70%;
         padding: 1em;
         }
+
         .topico1_imagem{
-            width: 5%;
+            width: 100%;
             margin: 1em;
+            
         }
 }
 
