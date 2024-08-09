@@ -194,7 +194,7 @@
 
     .container__titulo {
         font-weight: 400;
-        display: block;
+        display: flex;
     }
 
     .container__titulo--negrito {
