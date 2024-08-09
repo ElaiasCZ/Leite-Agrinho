@@ -194,7 +194,7 @@
 
     .container__titulo {
         font-weight: 400;
-        display: flex;
+        display: block;
     }
 
     .container__titulo--negrito {
@@ -202,11 +202,11 @@
     }
 
     .cabeçalho {
-        align-items:flex-end;
+        align-items:center;
         display: flex;
         position: relative;
         padding: 0 70px;
-        padding-bottom: 10px;
+        padding-bottom: 5px;
         width: 1023px;
     }
 }
