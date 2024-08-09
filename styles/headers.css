@@ -183,12 +183,12 @@
 @media screen and (min-width: 200px) and (max-width: 1023px) {
 
     .container__titulo {
-   display: inline-block;
+   display: flex;
     }
     .container__titulo,
     .container__titulo--negrito {
         font-family: var(--fonte-secundario);
-        font-size: 35px;
+        font-size: 25px;
        
     }
 
