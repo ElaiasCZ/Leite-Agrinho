@@ -127,6 +127,7 @@ span{
         .topico1_imagem{
             width: 100%;
             margin: 1em;
+            align-items: center;
             
         }
 }
