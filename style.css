@@ -96,7 +96,7 @@ span{
 
     .container{
         margin-top: 50px;
-        display:inline-block;
+        display:block;
         align-items: center;
 
     .topico1_titulo{
@@ -121,17 +121,17 @@ span{
         width: 100%;
         padding: 10em;
         }
-        
+
         }
         .topico1_imagem{
-            width: 70%;
+            width: 100%;
             margin: 7em;
             padding: 7em;
             align-items: center;
             
         }   
 }
-}
+
 
 
 
