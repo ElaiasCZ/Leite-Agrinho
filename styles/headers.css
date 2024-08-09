@@ -188,7 +188,7 @@
     .container__titulo,
     .container__titulo--negrito {
         font-family: var(--fonte-secundario);
-        font-size: 10px;
+        font-size: 35px;
        
     }
 
@@ -202,7 +202,7 @@
     }
 
     .cabeçalho {
-        align-items: center;
+        align-items:flex-end;
         display: flex;
         position: relative;
         padding: 0 70px;
