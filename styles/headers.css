@@ -187,11 +187,6 @@
        display: flex;
     }
 
-    .container__titulo {
-   display: inline-block;
-   flex-wrap: nowrap;
-    }
-
     .container__titulo,
     .container__titulo--negrito {
         font-family: var(--fonte-secundario);
