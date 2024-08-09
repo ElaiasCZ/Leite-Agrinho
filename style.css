@@ -5,7 +5,7 @@
 :root {
     --cor-de-fundo: #001722;
     --branco: #FFFFFF;
-    --azul5: #5200eb;
+    --azul5: #4946ff;
     --azul2: #0b004b;
     --fonte-principal: "Poppins";
     --preto: #000000;
@@ -34,7 +34,15 @@ padding: 2em;
     font-weight: 700;
     font-size: 35px;
     text-align: justify;
-    color: var(--azul1);
+    color: var(--azul5);
+    margin-bottom: 0.2em;
+}
+
+.topico2_titulo{
+    font-weight: 700;
+    font-size: 20px;
+    text-align: justify;
+    color: var(--azul5);
     margin-bottom: 0.2em;
 }
 
