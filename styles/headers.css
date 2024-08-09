@@ -184,13 +184,12 @@
 
     .container {
        flex-wrap: nowrap;
-       width: 1000px;
+       display: flex;
     }
 
     .container__titulo {
    display: inline-block;
    flex-wrap: nowrap;
-   width: 1000px;
     }
 
     .container__titulo,
