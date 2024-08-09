@@ -190,7 +190,7 @@
    display: inline-block;
    flex-wrap: nowrap;
     }
-    
+
     .container__titulo,
     .container__titulo--negrito {
         font-family: var(--fonte-secundario);
@@ -209,7 +209,7 @@
 
     .cabeçalho {
         align-items:center;
-        display: flex;
+        display: inline-block;
         position: relative;
         padding: 0 70px;
         padding-bottom: 5px;
