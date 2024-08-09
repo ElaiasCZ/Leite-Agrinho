@@ -189,7 +189,7 @@
     .container__titulo--negrito {
         font-family: var(--fonte-secundario);
         font-size: 35px;
-       
+       display: flex;
     }
 
     .container__titulo {
