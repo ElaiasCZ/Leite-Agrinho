@@ -92,6 +92,31 @@ span{
         
     }   
 }
+@media screen and (min-width: 200px) and (max-width: 1023px) {
+
+    .topico1_titulo{
+        font-size: 20px;
+        text-align: center;
+        color: var(--azul5);
+        margin-bottom: 0.2em;
+    }
+    
+    .topico2_titulo{
+        font-size: 15px;
+        text-align: center;
+        color: var(--azul5);
+    }
+    
+    .topico1_texto{
+        margin-top: 35px;
+        text-align: center;
+        color: var(--azul1);
+        font-size: 10px;
+        line-height: 1.5em;
+    }
+    
+
+}
 
 
 
