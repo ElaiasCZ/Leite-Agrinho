@@ -202,10 +202,9 @@
     }
 
     .cabeçalho {
-        display: flex;
         align-items: center;
         position: relative;
-        padding: 70 70px;
+        padding: 0 70px;
         padding-bottom: 10px;
     }
 }
