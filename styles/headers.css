@@ -201,12 +201,12 @@
     }
 
     .container__titulo {
-        font-weight: 400;
+        font-weight: 700;
         display: block;
     }
 
     .container__titulo--negrito {
-        font-weight: 1000;
+        font-weight: 700;
     }
 
     .cabeçalho {
@@ -215,7 +215,7 @@
         position: relative;
         padding: 0 70px;
         padding-bottom: 5px;
-        width: 1080px;
+        width: 1024px;
     }
 
     container__imagem {
