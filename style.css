@@ -116,6 +116,7 @@ span{
         color: var(--azul1);
         font-size: 35px;
         line-height: 1.5em;
+        width: 500px;
     }
     
     .topico1_descricao{
