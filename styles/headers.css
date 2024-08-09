@@ -213,6 +213,11 @@
         padding-bottom: 5px;
         width: 1024px;
     }
+
+    container__imagem {
+        width: 100px;
+        height: 100px;
+    }
 }
 
 
