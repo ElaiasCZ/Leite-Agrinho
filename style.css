@@ -96,7 +96,7 @@ span{
 
     .container{
         margin-top: 50px;
-        display: flexbox;
+        display:inline-block;
         align-items: center;
 
     .topico1_titulo{
