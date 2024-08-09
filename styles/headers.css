@@ -188,7 +188,7 @@
         background-image: url("../img/Menu.svg");
         background-repeat: no-repeat;
         background-position: center;
-        display: flex;
+        display: inline-flex;
     }
     
     .container {
