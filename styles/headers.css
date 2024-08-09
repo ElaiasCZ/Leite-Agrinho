@@ -187,8 +187,10 @@
     }
 
     .container__titulo {
-   display: flex;
+   display: inline-block;
+   flex-wrap: nowrap;
     }
+    
     .container__titulo,
     .container__titulo--negrito {
         font-family: var(--fonte-secundario);
@@ -217,7 +219,7 @@
     container__imagem {
         width: 100px;
         height: 100px;
-        display: inline-block;
+       
     }
 }
 
